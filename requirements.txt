@@ -1,5 +1,5 @@
 beautifulsoup4==4.6.0
-lxml==4.2.1
+lxml==4.9.1
 memory-profiler==0.55.0
 mysql-connector-python==8.0.14
 requests==2.18.4
